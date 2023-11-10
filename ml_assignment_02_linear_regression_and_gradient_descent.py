@@ -61,7 +61,7 @@ y = x^Tx,  \quad x \in \mathbb{R}^N
 $$
 
 $$
-\frac{dy}{dx} = \frac{dx^T Ex}{dx}
+\frac{dy}{dx} = \frac{dx^T Ex}{dx} = {E + E^T) {x} = {2x}
 $$
 
 #### Inline question 2
