@@ -1,2 +1,3 @@
 # cau_ml_homeworks
-Machine Learning Assignments from Junior Years
+Machine Learning ssignments during this course
+
