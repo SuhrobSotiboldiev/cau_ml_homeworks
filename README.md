@@ -1,3 +1,3 @@
 # cau_ml_homeworks
-Machine Learning ssignments during this course
+Machine Learning assignments during this course
 
